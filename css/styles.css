@@ -5,9 +5,9 @@
     margin: 0px;
     padding: 0px;
 }
-. {
+.i {
     height: 400px;
-    width: 500px;
+    width: 400px;
 }
 
 @media (min-width: 788px) {
