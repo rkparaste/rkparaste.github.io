@@ -1,17 +1,15 @@
-.navmain {
+.navbar {
     background-color: #2196f3;
 }
-.cont {
-    margin: 0px;
-    padding: 0px;
-}
-.i {
-    height: 200px;
-    width: 200px ;
-}
-
 @media (min-width: 788px) {
     .toberight {
-        margin-left: 1020px;
+        margin-left: 1130px;
     }
+    .dropdown-menu {
+        margin-left: 1000px;
+    }
+}
+
+.text{
+    margin-left: 3px;
 }
